@@ -4,7 +4,7 @@ Manual para ajudar membros da comunidade `clj-br` a criar lives
 
 Meio recomendado para fazer lives:
 
-- Discord (clojure)
+- [Discord (clojure)](https://discord.gg/u9hTMNUjJm)
 
 Canais para anunciar o inicio da live:
 
